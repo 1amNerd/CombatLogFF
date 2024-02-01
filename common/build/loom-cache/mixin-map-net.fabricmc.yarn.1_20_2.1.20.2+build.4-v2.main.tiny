@@ -1,0 +1,2 @@
+v1	named	intermediary
+METHOD	me/toastymop/combatlog/mixin/ModEntityDamageMixin	(Lnet/minecraft/entity/damage/DamageSource;F)Z	damage	method_5643
